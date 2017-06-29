@@ -1,0 +1,1 @@
+gradle Spring Boot project running with Google App Engine java 8 standard environment
